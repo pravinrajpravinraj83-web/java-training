@@ -1,4 +1,4 @@
-public class InsertionSortDescending {
+public class QuickSortDescending {
     public static void main(String[] args) {
         int arr[] = {12, 11, 13, 5, 6};
 
