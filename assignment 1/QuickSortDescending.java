@@ -1,6 +1,6 @@
-public class InsertionSortDescending {
+public class QuickSortDescending {
     public static void main(String[] args) {
-        int arr[] = {12, 11, 13, 5, 6};
+        int arr[] = { 12, 11, 13, 5, 6 };
 
         for (int i = 1; i < arr.length; i++) {
             int key = arr[i];

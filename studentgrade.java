@@ -9,9 +9,7 @@ public class studentgrade {
             System.out.print("Enter marks for Subject " + i + ": ");
             total += sc.nextInt();
         }
-
         double average = total / 5.0;
-
         System.out.println("Total Marks = " + total);
         System.out.println("Average = " + average);
 

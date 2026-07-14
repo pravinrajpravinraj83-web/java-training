@@ -16,4 +16,4 @@ public class SeatBooking {
 
         sc.close();
     }
-}17
+}
