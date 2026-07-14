@@ -11,7 +11,7 @@ public class SeatBooking {
         if (seat >= 1 && seat <= 15) {
             System.out.println("Occupied");
         } else {
-            System.out.println("Book");
+            System.out.println("Booked");
         }
 
         sc.close();
