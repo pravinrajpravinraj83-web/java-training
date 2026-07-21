@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+
 public class Combination {
     public static void findCombination(int start, List<Integer> list) {
         if (list.size() == 2) {
@@ -12,9 +13,8 @@ public class Combination {
             list.remove(list.size() - 1);
         }
     }
+
     public static void main(String[] args) {
         findCombination(1, new ArrayList<>());
     }
 }
-
-
